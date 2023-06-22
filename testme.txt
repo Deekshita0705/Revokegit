@@ -1,2 +1,6 @@
 <h5>This file is changed by branch2</h5>
 
+<<<<<<< Updated upstream
+=======
+<h1>This file is changed by branch1 profile</h1>
+>>>>>>> Stashed changes
